@@ -1,4 +1,3 @@
-import { Statistics } from "./Statistics";
 import pilot from "../assets/undraw2.png";
 
 export const About = () => {
@@ -31,7 +30,6 @@ export const About = () => {
               </p>
             </div>
 
-            <Statistics />
           </div>
         </div>
       </div>

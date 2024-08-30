@@ -6,6 +6,7 @@ import undraw1 from '../assets/undraw1.png';
 import undraw3 from '../assets/undraw3.png';
 import undraw4 from '../assets/undraw4.png';
 import undraw5 from '../assets/undraw5.png';
+import blob1 from '../assets/blob1.png';
 
 export const HeroCards = () => {
   return (
@@ -54,6 +55,8 @@ export const HeroCards = () => {
           />
         </CardContent>
       </Card>
+
+      <img src={blob1} className="absolute -right-60 rotate-180 -z-10" />
     </div>
   );
 };
