@@ -23,3 +23,10 @@ npm install
 ```bash
 npm run dev
 ```
+
+### How running test
+Run Test
+
+```bash
+npm run test
+```
