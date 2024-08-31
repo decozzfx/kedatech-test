@@ -16,7 +16,7 @@ export const HeroCards = () => {
         <CardContent>
           <img
             src={undraw1}
-            alt="user avatar"
+            alt="hero-card-img"
             className="grayscale-[0%] aspect-square object-cover"
           />
         </CardContent>
@@ -27,7 +27,7 @@ export const HeroCards = () => {
         <CardContent>
           <img
             src={undraw5}
-            alt="user avatar"
+            alt="hero-card-img"
             className="grayscale-[0%] aspect-square object-cover"
           />
         </CardContent>
@@ -39,7 +39,7 @@ export const HeroCards = () => {
         <CardContent>
           <img
             src={undraw3}
-            alt="user avatar"
+            alt="hero-card-img"
             className="grayscale-[0%] aspect-square object-cover"
           />
         </CardContent>
@@ -50,7 +50,7 @@ export const HeroCards = () => {
         <CardContent>
           <img
             src={undraw4}
-            alt="user avatar"
+            alt="hero-card-img"
             className="grayscale-[0%] aspect-square object-cover"
           />
         </CardContent>

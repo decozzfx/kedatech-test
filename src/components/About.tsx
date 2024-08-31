@@ -4,6 +4,7 @@ export const About = () => {
   return (
     <section
       id="about"
+      data-testid="about"
       className="container py-24 sm:py-32"
     >
       <div className="bg-muted/50 border rounded-lg py-12">

@@ -118,7 +118,7 @@ export const Navbar = () => {
           </nav>
 
           <div className="hidden md:flex gap-2">
-            <Button onClick={toggleModal} className="w-full">Login</Button>
+            <Button data-testid='login-button' onClick={toggleModal} className="w-full">Login</Button>
             <ModeToggle />
           </div>
         </NavigationMenuList>

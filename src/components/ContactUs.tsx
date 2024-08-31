@@ -8,7 +8,9 @@ export const ContactUs = () => {
   };
 
   return (
-    <section id="contact">
+    <section id="contact"
+      data-testid="contact"
+    >
       <hr className="w-11/12 mx-auto" />
 
       <div className="container py-24 sm:py-32">
